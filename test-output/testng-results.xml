@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2021" started-at="2018-10-22T12:25:42Z" finished-at="2018-10-22T12:25:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2021" started-at="2018-10-22T12:25:42Z" finished-at="2018-10-22T12:25:44Z">
+      <class name="GetJsonresponse">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:GetJsonresponse@4667ae56]" name="setBaseUri" is-config="true" duration-ms="450" started-at="2018-10-22T12:25:42Z" finished-at="2018-10-22T12:25:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:GetJsonresponse@4667ae56]" name="test1" duration-ms="1552" started-at="2018-10-22T12:25:43Z" finished-at="2018-10-22T12:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- GetJsonresponse -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
